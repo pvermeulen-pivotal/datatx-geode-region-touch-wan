@@ -1,5 +1,5 @@
-# Geode-Region-Wan-Touch
-
+# Region Touch WAN
+## GemFire V9 and Above
 The purpose of the Geode-Region-Wan-Touch application is to provide a mechanism that touches/updates all objects in a region 
 or regions in order update region(s) entries on one or more WAN endpoints.
 
